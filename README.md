@@ -22,6 +22,9 @@ To make complex economic data accessible, I developed several visualizations:
    * **Lowest:** April, May, and June.
 3. **What is the projected growth for the next few years?** Based on the analysis, debt held by the public is projected to increase at a steady rate, reaching approximately **$33 Trillion by 2027**.
 
+⚠️ Note on File Optimization
+   To comply with GitHub’s file size limits and ensure better performance, the raw dataset has been reduced through strategic sampling
+
 ## 📂 Repository Contents
 * `US_Debt_Tracker_Analysis.xlsx`: The complete workbook with data dictionaries, pivot tables, and forecasting models.
 * `Data Source`: U.S. Treasury Department - Fiscal Data.
